@@ -6,8 +6,6 @@ void main() {
   ));
 }
 
-//Olá, testando o Github do AndroidStudio
-
 class Home extends StatefulWidget {
   @override
   _HomeState createState() => _HomeState();
